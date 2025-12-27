@@ -7,13 +7,13 @@
 ---
 
 ## 🛠️ Habilidades Técnicas
-![ITIL](https://img.shields.io/badge/ITIL-Service%20Management-purple?style=for-the-badge&logo=itil&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![ITIL]
+![SQL]
+![Power BI]
+![Excel]
+![Figma]
+![GitHub]
+![Python]
 
 ---
 
@@ -34,13 +34,13 @@
 ---
 
 ## 🎓 Cursos & Certificações
-- [![Excel Analytics](https://img.shields.io/badge/Excel%20Analytics-Yto Nihon-brightgreen)](https://www.ytonihon.com.br)  
-- [![ITIL4 Foundation](https://img.shields.io/badge/ITIL4%20Foundation-ITIL Official-blue)](https://www.axelos.com/certifications/itil-certifications)  
-- [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Em%20Andamento-yellow)](https://www.cursosonline.com.br)  
-- [![Power BI](https://img.shields.io/badge/Power%20BI-Projetos Applied-orange)](https://github.com/cristianogodoi10/powerbi-projects)  
-- [![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-blueviolet)](https://www.databricks.com/learn/certification)  
-- [![Scrum Foundation](https://img.shields.io/badge/Scrum-Foundation-lightblue)](https://www.scrumstudy.com/certifications)  
-- [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Fundamentals-red)](https://www.coursescyber.com/certifications)  
+- [![Excel Analytics]
+- [![ITIL4 Foundation]
+- [![Data Analytics]
+- [![Power BI]
+- [![Databricks Fundamentals]
+- [![Scrum Foundation]
+- [![Cybersecurity]
 
 ---
 
