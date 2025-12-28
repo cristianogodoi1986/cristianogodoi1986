@@ -82,9 +82,9 @@ Profissional de TI com foco em **Gestão de Incidentes** e **Análise de Dados**
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| 📊 **Python Basico** | Métricas estratégicas de performance de colaboradores | Power BI, Excel | [![Repo]([https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github)](https://github.com/cristianogodoi10/dashboard-rh](https://github.com/cristianogodoi1986/python-basico)) |
-| ⚡ ** Análise de Dados Globais com Tableau4**| [![Repo]([https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github)](https://github.com/cristianogodoi10/gestao-incidentes](https://github.com/cristianogodoi1986/-An-lise-de-Dados-Globais-com-Tableau)) |
-| 🛒 **Sistema de Gestão de Produtos Agrícolas em R* [![Repo]([https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github)](https://github.com/cristianogodoi10/analise-vendas](https://github.com/cristianogodoi1986/-Sistema-de-Gest-o-de-Produtos-Agr-colas-em-R)) |
+| 🐍 **Python Básico** | Fundamentos de programação Python | Python | [![Repo](https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github)](https://github.com/cristianogodoi1986/python-basico) |
+| 📊 **Análise de Dados Globais com Tableau** | Visualizações interativas de dados globais | Tableau | [![Repo](https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github)](https://github.com/cristianogodoi1986/-An-lise-de-Dados-Globais-com-Tableau) |
+| 🌾 **Sistema de Gestão de Produtos Agrícolas** | Sistema de gestão desenvolvido em R | R, Data Analysis | [![Repo](https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github)](https://github.com/cristianogodoi1986/-Sistema-de-Gest-o-de-Produtos-Agr-colas-em-R) |
 
 </div>
 
